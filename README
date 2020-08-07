@@ -8,6 +8,14 @@ Filelist
 .gitignore
   Files for git to ignore
 
+compulab/
+  Compulab IoT Gateways
+  "CompuLab IoT Gateways are highly customizable and cost effective
+  industrial systems designed for Internet of Things connectivity
+  and remote control and monitoring applications."
+  --Compulab IoT Gateways
+    https://www.compulab.com/products/iot-gateways/
+
 hp-240a/
   2x HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor 
   with Built-in and VESA Mounting, Rotating Portrait & Landscape, 
