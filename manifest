@@ -31,4 +31,5 @@
 # -------------------------------------------------------------------
 # Source                                                  Target
 # -------------------------------------------------------------------
+ssh://git@github.com/marcilr/compulab.git                 compulab
 ssh://git@github.com/marcilr/hp-240a.git                  hp-240a
