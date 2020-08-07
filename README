@@ -5,8 +5,21 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+hp-240a/
+  2x HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor 
+  with Built-in and VESA Mounting, Rotating Portrait & Landscape, 
+  Tilt, and HDMI & VGA Ports (1KL30AA) - Black
+  Ordered on July 9, 2020
+  Order# 113-6052533-3708252
+  price: $109.99 amazon prime
+  total: 2x $109.99 = $219.98
+  https://www.amazon.com/gp/product/B072M34RQC?ref=em_1p_0_ti&ref_=pe_2313360_511752700
+
 links.txt
   Workstaton related links
+
+manifest
+  Manifest file for use by resync script
 
 workstation.txt
   Workstation
