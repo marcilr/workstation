@@ -1,0 +1,8 @@
+#.gitignore
+# Created Fri 07 Aug 2020 10:46:53 AM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+hp-240a.git/
