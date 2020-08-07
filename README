@@ -5,6 +5,9 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 hp-240a/
   2x HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor 
   with Built-in and VESA Mounting, Rotating Portrait & Landscape, 
